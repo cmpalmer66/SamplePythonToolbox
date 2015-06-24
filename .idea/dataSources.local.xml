@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="SQL Server - FieldInspectionDB@192.168.20.7" uuid="5cbbf198-0ae7-401e-94fe-071ad43cbb4b">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>sa</user-name>
+    </data-source>
+  </component>
+</project>

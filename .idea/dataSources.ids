@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="SQL Server - FieldInspectionDB@192.168.20.7" uuid="5cbbf198-0ae7-401e-94fe-071ad43cbb4b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

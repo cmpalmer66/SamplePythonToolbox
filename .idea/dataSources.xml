@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1324830162">
+    <data-source source="LOCAL" name="SQL Server - FieldInspectionDB@192.168.20.7" uuid="5cbbf198-0ae7-401e-94fe-071ad43cbb4b">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://192.168.20.7:1433;databaseName=FieldInspectionDB</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
